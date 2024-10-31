@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fancy Restaurant Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to The Fancy Restaurant</h1>
+        <p>Explore our exquisite menu!</p>
+    </header>
+    <main>
+        <section class="menu">
+            <h2>Our Menu</h2>
+            <div class="menu-item">
+                <h3>Appetizers</h3>
+                <ul>
+                    <li>Bruschetta - $8</li>
+                    <li>Stuffed Mushrooms - $10</li>
+                    <li>Caprese Salad - $9</li>
+                </ul>
+            </div>
+            <div class="menu-item">
+                <h3>Main Courses</h3>
+                <ul>
+                    <li>Grilled Salmon - $25</li>
+                    <li>Ribeye Steak - $30</li>
+                    <li>Vegetable Stir Fry - $20</li>
+                </ul>
+            </div>
+            <div class="menu-item">
+                <h3>Desserts</h3>
+                <ul>
+                    <li>Chocolate Lava Cake - $7</li>
+                    <li>Tiramisu - $6</li>
+                    <li>Cheesecake - $8</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 The Fancy Restaurant. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
